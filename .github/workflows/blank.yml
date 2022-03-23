@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: fn-amqp-to-influxdb
+  IMAGE_NAME: fn-amqp-to-influx
 
 jobs:
   # Push image to GitHub Packages.
